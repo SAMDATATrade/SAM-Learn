@@ -38,7 +38,7 @@
 
 - ![Terminal DOCS](https://github.com/SAMDATATrade/SAM-Learn/blob/master/Terminal-Guide.md)
 
-- ![Terminal DOCS](https://github.com/SAMDATATrade/SAM-Terminal-Server-Install)
+- ![Terminal Server DOCS](https://github.com/SAMDATATrade/SAM-Terminal-Server-Install)
 
 ## Overview
 
